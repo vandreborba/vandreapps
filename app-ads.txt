@@ -1,0 +1,7 @@
+# app-ads.txt para vandreapps.top
+# Adicione suas entradas aqui
+# Formato: <domínio da rede de anúncios>, <ID do publisher>, <tipo de relação>, <ID de certificação (opcional)>
+
+# Exemplo Google AdMob:
+google.com, pub-0362889986897813, DIRECT, f08c47fec0942fa0
+
